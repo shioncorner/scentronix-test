@@ -1,0 +1,19 @@
+@tailwind base;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+
+    /** Size */
+    --header-height: 4.75rem;
+    --language-selector-width: 10rem;
+    --sign-in-form-width: 25rem;
+
+    /** Z-index */
+    --dropdown-menu-content-order: 1000;
+    --dropdown-menu-sub-content-order: 1000;
+    --header-order: 1000;
+    --tailwind-indicator-order: 1000;
+    --select-content-order: 1000;
+  }
+}

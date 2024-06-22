@@ -1,0 +1,16 @@
+{
+  "error": {
+    "email-already-exists": "Email đã tồn tại. Vui lòng chọn email khác.",
+    "email-already-used": "Email liên kết với nền tảng này đã được sử dụng.",
+    "email-does-not-exist": "Email không tồn tại. Vui lòng kiểm tra lại email của bạn và thử lại.",
+    "invalid-credentials": "Thông tin không hợp lệ. Vui lòng kiểm tra lại thông tin của bạn và thử lại.",
+    "sign-in-failed": "Đăng nhập thất bại",
+    "sign-up-failed": "Đăng ký thất bại",
+    "something-went-wrong": "Có lỗi xảy ra! Vui lòng thử lại sau."
+  },
+  "success": {
+    "sign-up-success": "Đăng ký thành công",
+    "sign-in-success": "Đăng nhập thành công",
+    "user-created": "Tài khoản đã được tạo, vui lòng kiểm tra email để kích hoạt tài khoản."
+  }
+}

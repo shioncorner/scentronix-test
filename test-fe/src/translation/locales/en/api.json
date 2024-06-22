@@ -1,0 +1,16 @@
+{
+  "error": {
+    "email-already-exists": "Email already exists. Please use another email.",
+    "email-already-used": "Email linked with this provider account already in use.",
+    "email-does-not-exist": "Email does not exist. Please check your email and try again.",
+    "invalid-credentials": "Invalid credentials. Please check your credentials and try again.",
+    "sign-in-failed": "Sign in failed",
+    "sign-up-failed": "Sign up failed",
+    "something-went-wrong": "Something went wrong! Please try again later."
+  },
+  "success": {
+    "sign-up-success": "Sign up success",
+    "sign-in-success": "Sign in success",
+    "user-created": "User created, please check your email to confirm your account."
+  }
+}

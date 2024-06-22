@@ -1,0 +1,5 @@
+{
+  "date": "{{date, DATE_HUGE}}",
+  "retry": "Retry",
+  "unknown-error": "An unexpected error has occurred"
+}

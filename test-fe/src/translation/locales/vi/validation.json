@@ -1,0 +1,6 @@
+{
+  "email-invalid": "Email không hợp lệ",
+  "email-required": "Email không được để trống",
+  "name-required": "Tên không được để trống",
+  "password-required": "Mật khẩu không được để trống"
+}

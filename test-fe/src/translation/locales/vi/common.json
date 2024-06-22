@@ -1,0 +1,5 @@
+{
+  "date": "{{date, DATE_HUGE}}",
+  "retry": "Thử lại",
+  "unknown-error": "Đã xảy ra lỗi không xác định"
+}
